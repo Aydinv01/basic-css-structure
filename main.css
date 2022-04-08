@@ -1,0 +1,17 @@
+h1 {
+    font-size: 60px;
+    color:rgb(180, 20, 20);
+  }
+  h2 {
+    color:darkgreen;
+    font-weight: bold;
+  }
+  h3 {
+    color: mediumseagreen;
+  }
+  
+  
+  
+  .center{
+    text-align: center;
+  }
