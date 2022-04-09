@@ -1,0 +1,70 @@
+/* general css */
+body {
+    background-color: #e9ecef;
+}
+main {
+    overflow: hidden;
+}
+
+
+
+.boxes {
+    flex-wrap: nowrap;
+}
+.box {
+    margin-right: 2px;
+    text-align: center;
+}
+.images {
+    text-align: center;
+}
+.images>img {
+    margin: 10px 0;
+}
+
+
+footer {
+    padding: 10px;
+    height: 47px;
+    background-color: #6c757d;
+}
+footer .bottom-logo {
+    color: #17a3b8b9;
+}
+footer .bottom-logo:hover {
+    color: #17a2b8;
+}
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+footer ul li {
+    float: left;
+    display: block;
+    margin-left: 20px;
+}
+footer ul li a {
+    text-decoration: none;
+    color: #F6E7D8;
+}
+footer ul li a:hover {
+    text-decoration: underline;
+    color: #F6E7D8;
+}
+
+
+/* hakkımızda stiller */
+.mr {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* Ürünlerimiz stiller */
+.p {
+    padding: 10px 100px;
+}
+.text-center img {
+    margin: 30px 0;
+}
